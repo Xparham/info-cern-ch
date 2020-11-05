@@ -1,0 +1,31 @@
+.top {
+    text-align: center;
+    background-color: blue;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 5px; padding-bottom: 5px;
+}
+
+.upper {
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding-top: 5px; padding-bottom: 5px;
+}
+
+.lower {
+    background-color: gray;
+    color: white;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 5px; padding-top: 5px;
+
+}

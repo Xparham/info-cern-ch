@@ -1,0 +1,26 @@
+h1 {
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 5px; padding-bottom: 10px;
+}
+
+.top {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue
+    
+
+}
+li {
+    text-align: left;
+}
+
+.bottom {
+    text-align: left;
+    background-color: gray; padding-bottom: 450px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: white;
+}

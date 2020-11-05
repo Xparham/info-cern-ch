@@ -1,0 +1,53 @@
+
+
+
+
+#heading {
+    background-color: white;
+    text-align: center; padding-top: 5px;
+    
+}
+
+h4 {
+    font-size: large;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+h1 {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   color: white;
+   background-color: blue;
+}
+   
+   h3 {
+       color: blue;
+       padding-bottom: 10px;
+       font-family: Georgia, 'Times New Roman', Times, serif;
+       
+   }
+
+   
+   
+
+   p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   color: white;
+}
+
+
+
+#sub-heading {
+    text-align: center;
+   background-color:;
+   
+}
+
+body {
+    text-align: center;
+    background-color:gray;
+    color: white;
+    
+    
+}
